@@ -1,0 +1,13 @@
+<script setup>
+import Header from "../components/Header/Header.vue";
+</script>
+
+<template>
+  <main>
+    <Header />
+    <h3>Contact Page</h3>
+  </main>
+</template>
+
+<style>
+</style>
